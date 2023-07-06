@@ -1,0 +1,3 @@
+(function(){var loadHandler=window['sl_{68C09419-DBDB-4317-89F0-2B6C9C5EB074}'];loadHandler&&loadHandler(1, '<div id="spr0_87b6cb4"><div id="spr1_87b6cb4" class="kern slide"><img id="img1_87b6cb4" src="data/img2.png" width="960px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_87b6cb4" class="kern slide"><div id="spr3_87b6cb4" style="left:507px;top:30.873px;"><img id="img0_87b6cb4" src="data/img3.png" width="422" height="452" alt="A cartoon of kids jumping in the water\
+\
+Description automatically generated" style="left:0.244px;top:0.126px;"/></div></div></div>', '{"s":[]}');})();
